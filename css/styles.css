@@ -1,0 +1,168 @@
+
+#title{
+    background-color: rgb(249, 90, 114);
+    
+}
+.c1{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3.5rem;
+    line-height: 1.5;
+    text-shadow: 4px 4px white;
+    
+}
+.img1{
+    width: 21%;
+    padding-top: 5%;
+    padding-right: 1%;
+    padding-left: 2%;
+    transform: rotate(25deg);
+     position: absolute; 
+    
+
+}
+.navbar{
+    padding-left: 0px;
+}
+.navbar-brand{
+    font-size: 25px;
+    padding-right: 51%;
+    font-weight: bold;
+    
+}
+.nav-item{
+    padding:0 18px;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5rem;
+}
+.change {
+    color: #8f8f8f;
+    padding-right: 28%;
+    padding-left: 28%;
+}
+#features{
+    position: relative;
+    text-align: center;
+    padding: 8% 0%;
+    background-color: #fff;
+
+}
+.cen{
+    color: #ef8172;
+    padding-bottom: 3%;
+}
+.cen:hover{
+    color: rgb(249, 90, 114);
+}
+.to{
+    padding-bottom: 3%;
+    padding-top: 3%;
+}
+ h2{
+    font-family: 'Montserrat',sans-serif;
+    font-size: 3.5rem;
+    line-height: 2.5;
+ }
+/* testimonials section */
+#testimonials{
+   
+    text-align: center;
+    background-color:#ef8172 ;
+    color: #fff;
+}
+.testimonialsimg{
+    width: 10%;
+    border-radius: 100%;
+    margin: 23px;    
+}
+ 
+/* press section*/
+
+#press{
+    background-color: #ef8172;
+    text-align: center;
+    padding-bottom: 5%;
+}
+.presslogo{
+    width: 15%;
+    margin : 20px 20px 50px;
+}
+.carousel-item{
+    padding: 7% 18%;
+}
+
+/* pricing section */
+#pricing{
+    padding: 100px;
+    text-align: center;
+}
+.pricing-col{
+   padding: 5% 5%;
+   
+}
+.change1{
+    font-family: 'Montserrat',sans-serif;
+    font-size: 3.5rem;
+    line-height: 1.5;
+    
+}
+#cta{
+    background-color: rgb(249, 90, 114);
+    text-align: center;
+    padding-bottom: 10%;
+}
+.bottom{
+    font-family:'Montserrat',sans-serif ;
+    font-size: 3rem;
+    line-height: 1.5;
+    color: #fff;
+}
+.bottom1{
+    padding: 4% 19%;
+}
+.pad{
+    margin-right: 2%;
+}
+#footer{
+    text-align: center;
+    padding: 4% 0%;
+}
+.shift{
+    position: relative;
+    right: 15px;
+    color: #8f8f8f;
+}
+.icons1:hover{
+    color: rgb(249, 90, 114);
+}
+.icons2:hover{
+    color: rgb(249, 90, 114);
+}
+.icons3:hover{
+    color: rgb(249, 90, 114);
+}
+.icons4:hover{
+    color: rgb(249, 90, 114);
+}
+.lower{
+    padding-bottom: 1%;
+}
+
+.icon{
+    padding-right: 2%;
+}
+@media (max-width:1012px) {
+    .img1{
+        position: static;
+        width: 50%;
+        transform: rotate(0);
+    }
+   #title{
+    text-align: center;
+   }
+   .navbar{
+    text-align: left;
+   }
+    
+}
